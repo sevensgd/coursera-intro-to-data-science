@@ -1,2 +1,3 @@
-# coursera-intro-to-data-science
-Introduction to Data Science in Python - coursera
+# Introduction to Data Science in Python by University of Michigan
+
+Doing a coursera stuff.
